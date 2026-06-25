@@ -74,7 +74,7 @@ task.spawn(function()
     sendChatMessage('.')
 end)
 
-local u24 = loadstring(game:HttpGet('https://raw.githubusercontent.com/qquzi/cosmichub-skidding/refs/heads/main/LimitlessOrion.lua', true))()
+local u24 = loadstring(game:HttpGet('https://raw.githubusercontent.com/qquzi/cosmichub-skidding/refs/heads/main/LimitlessOrion.txt', true))()
 local v25 = u24
 
 u24.MakeNotification(v25, {
